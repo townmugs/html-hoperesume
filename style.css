@@ -1,0 +1,19 @@
+
+.body{
+  min-height: 297mm;
+  min-width: 210mm;}
+.row{
+display: flex;
+}
+.mepic{
+  height: 300px;
+  border-radius: 50%;
+}
+h1, h4, h5, h3{
+  font-family: merriweather;
+  
+}
+
+*{
+  font-family:nunito;
+}
